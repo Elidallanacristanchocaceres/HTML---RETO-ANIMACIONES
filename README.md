@@ -33,6 +33,6 @@ Descripción:
 ### 📝Archivos:
  - index.html: Contiene el marcado HTML para el fondo y las nubes.
  - style.css: Contiene el estilo CSS que define la animación de movimiento de las nubes y el fondo.
-   
-📱 Contacto
-  Para cualquier pregunta o comentario sobre el proyecto, por favor contacta con [Elidallana Cristancho] a través de [cristanchodayana062017@gmail.com].
+
+# 📱Contacto
+   Para cualquier pregunta o comentario sobre el proyecto, por favor contacta con [Elidallana Cristancho] a través de [cristanchodayana062017@gmail.com].
